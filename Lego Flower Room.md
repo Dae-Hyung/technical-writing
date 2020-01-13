@@ -13,21 +13,21 @@ Have someone in class attempt to use your instruction set to rebuild your design
 
 ## Materials: 
 
-Two lego windows
+* Two lego windows
 
-Two 2 x 10-piece legos
+* Two 2 x 10-piece legos
 
-Two 2 x 4-piece legos
+* Two 2 x 4-piece legos
 
-One 2 x 6-piece lego
+* One 2 x 6-piece lego
 
-One 2 x 8-piece lego
+* One 2 x 8-piece lego
 
-Three lego flower pieces
+* Three lego flower pieces
 
-One lego door
+* One lego door
 
-One 8 x 16 thin lego piece
+* One 8 x 16 thin lego piece
 
 
 **None of the lego pieces will go off the foundation and should fit completely on or within it.**
