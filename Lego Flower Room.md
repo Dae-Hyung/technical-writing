@@ -4,11 +4,11 @@
 
 ## Purpose:
 
-Create an original Lego design that utilizes 10 - 15 pieces (no more, no less).
+* Create an original Lego design that utilizes 10 - 15 pieces (no more, no less).
 
-Compose an instruction set for your design that can be delivered via a digital file or non-digital document -- PowerPoint, Word, PDF, HTML, etc. The delivery medium/format is up to you, but your instruction set must contain both images and words.
+* Compose an instruction set for your design that can be delivered via a digital file or non-digital document -- PowerPoint, Word, PDF, HTML, etc. The delivery medium/format is up to you, but your instruction set must contain both images and words.
 
-Have someone in class attempt to use your instruction set to rebuild your design -- conduct a "usability test" -- and offer you feedback on the instruction set. To assist in sharing our instructional sets with potential builders you can share files to this folder.Timeline/DeadlinesOur goal will be to finish drafting instructions sets during our workshop period. If time permits, we'll conduct usability tests and feedback. Otherwise, we'll open next week with testing and feedback.
+* Have someone in class attempt to use your instruction set to rebuild your design -- conduct a "usability test" -- and offer you feedback on the instruction set. To assist in sharing our instructional sets with potential builders you can share files to this folder.Timeline/DeadlinesOur goal will be to finish drafting instructions sets during our workshop period. If time permits, we'll conduct usability tests and feedback. Otherwise, we'll open next week with testing and feedback.
 
 
 ## Materials: 
