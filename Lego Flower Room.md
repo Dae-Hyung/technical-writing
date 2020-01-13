@@ -1,6 +1,6 @@
 # Lego Flower Room
 
-** By Charles Cho
+**By Charles Cho**
 
 ## Purpose:
 
