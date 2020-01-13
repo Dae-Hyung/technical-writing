@@ -53,4 +53,4 @@ Have someone in class attempt to use your instruction set to rebuild your design
 
 9. Put the three flowers anywhere on the middle piece to your content.
 
-! https://github.com/Dae-Hyung/technical-writing/blob/master/Lego.jpg
+![Final Product](https://github.com/Dae-Hyung/technical-writing/blob/master/Lego.jpg)
