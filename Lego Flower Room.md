@@ -52,3 +52,5 @@ Have someone in class attempt to use your instruction set to rebuild your design
 8. Add the 2 x 6 piece in the middle closest to the windows, but there should be a gap between all the lego pieces placed at the edge.
 
 9. Put the three flowers anywhere on the middle piece to your content.
+
+! https://github.com/Dae-Hyung/technical-writing/blob/master/Lego.jpg
