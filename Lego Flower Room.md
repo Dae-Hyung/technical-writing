@@ -1,6 +1,6 @@
 # Lego Flower Room
 
-By Charles Cho
+**By Charles Cho
 
 ## Purpose:
 
@@ -33,7 +33,7 @@ One 8 x 16 thin lego piece
 None of the lego pieces will go off the foundation and should fit completely on or within it.
 
 
-Procedure:
+## Procedure:
 
 1. Grab the 8 x 16 thin lego and have it laid out in front of you with the long edge near you. This will be the foundation of my little design.
 
