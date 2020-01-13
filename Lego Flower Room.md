@@ -30,7 +30,7 @@ One lego door
 One 8 x 16 thin lego piece
 
 
-None of the lego pieces will go off the foundation and should fit completely on or within it.
+**None of the lego pieces will go off the foundation and should fit completely on or within it.
 
 
 ## Procedure:
