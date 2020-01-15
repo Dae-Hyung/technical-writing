@@ -37,7 +37,7 @@
 
 1. Grab the 8 x 16 thin lego and have it laid out in front of you with the long edge near you. This will be the foundation of my little design.
 
-2. Install the two 2 x 10 piece on to the right corner edges of the thin lego piece 
+2. Install the two 2 x 10 piece on to the right corner edges of the thin lego piece. 
 
 3. Use one of the 2 x 4 pieces and place it at the edge between the two 2 x 10 pieces.
 
