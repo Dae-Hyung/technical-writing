@@ -17,13 +17,12 @@ Google Drive is an online cloud storage where users can create, upload, and/or s
 
 ## How to get to Google Drive?
 
-- Method 1: In the browser address bar, type in : https://www.google.com/drive/ 
+- Method 1: Click on the picture : [![Google Drive Picture](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png "Google Drive")](https://www.google.com/drive/)
 
 - Method 2: On the google website, there is an icon in the shape of boxes that will create a drop-down menu when it has been clicked on. The drop-down menu will provide multiple links to the features Google provides to its user and Google Drive will be seen among them.
 
 ### Within Google Drive, it provides users to a storage space thier school work, or any documents that need to digitally stored. If in need of guidance for certain features within Google, then feel free to browse through the list and to click on the link.
 
-![Google Drive Picture](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png)
 
 ## Tutorials for Other Features of Google:
 [![Google Maps](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Maps.png "Google Maps")](https://www.google.com/maps)
