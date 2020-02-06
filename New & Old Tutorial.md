@@ -22,3 +22,7 @@ Google Drive is an online cloud storage where users can create, upload, and/or s
 - Method 2: On the google website, there is an icon in the shape of boxes that will create a drop-down menu when it has been clicked on. The drop-down menu will provide multiple links to the features Google provides to its user and Google Drive will be seen among them.
 
 ### Within Google Drive, it provides users to a storage space thier school work, or any documents that need to digitally stored. If in need of guidance for certain features within Google, then feel free to browse through the list and to click on the link.
+
+<p align="center">
+  <img scr="https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png">
+</p>
