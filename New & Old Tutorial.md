@@ -13,7 +13,7 @@ Google Drive is an online cloud storage where users can create, upload, and/or s
 - Google Account (Absolutley Free)
 
 ### If you don't have a Google account and would like to create one, then please follow these instructions on this link:
--
+- [Google Account](https://github.com/jloan/pierce-hacker-submissions/blob/master/new-lessons/Google/Other%20Info/Creating%20Google%20Account.md)
 
 ## How to get to Google Drive?
 
