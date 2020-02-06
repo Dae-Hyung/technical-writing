@@ -23,6 +23,4 @@ Google Drive is an online cloud storage where users can create, upload, and/or s
 
 ### Within Google Drive, it provides users to a storage space thier school work, or any documents that need to digitally stored. If in need of guidance for certain features within Google, then feel free to browse through the list and to click on the link.
 
-<p align="center">
-  <img width="600" height="200" img scr="https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png">
-</p>
+![Google Drive Picture](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png)
