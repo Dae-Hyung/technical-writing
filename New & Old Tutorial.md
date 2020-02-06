@@ -24,3 +24,14 @@ Google Drive is an online cloud storage where users can create, upload, and/or s
 ### Within Google Drive, it provides users to a storage space thier school work, or any documents that need to digitally stored. If in need of guidance for certain features within Google, then feel free to browse through the list and to click on the link.
 
 ![Google Drive Picture](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Drive.png)
+
+## Tutorials for Other Features of Google:
+[![Google Maps](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Maps.png "Google Maps")](https://www.google.com/maps)
+[![Youtube](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Youtube.png "Youtube")](https://www.youtube.com/) 
+[![News](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20News.png "Google News")](https://news.google.com/?hl=en-US&tab=on1&gl=US&ceid=US:en)
+[![Email](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Gmail.png "Gmail")](https://mail.google.com/mail/u/0/)
+[![Contacts](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Contacts.png "Google Contacts")](https://www.google.com/)
+[![Store](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Play.png "Google Play Store")](https://www.google.com/)
+[![Calender](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Calender.png "Google Calender")](https://www.google.com/)
+[![Translator](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Translate.png "Google Translate")](https://translate.google.com/?hl=en&tab=wT1&authuser=0)
+[![Photos](https://github.com/Dae-Hyung/technical-writing/blob/master/images/Google%20Photos.png "Google Photo")](https://www.google.com/)
